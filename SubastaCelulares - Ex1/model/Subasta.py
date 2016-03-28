@@ -2,7 +2,7 @@
     Clase que representa la subasta.
 """
 
-from model.Celular import Celular
+from SubastaCelulares.model.Celular import Celular
 
 class Subasta:
 
